@@ -1,4 +1,20 @@
-# DAG-UMB
-The MV-TI dataset have been made publicly available at https://pan.baidu.com/s/1rFaP0r0ZSCK2ekRd0St1JA?pwd=r5td.
-You can access and download the training results (e.g., model checkpoints, logs, evaluation metrics) from our shared OneDrive folder.
-[📥 Access Training Results on OneDrive](https://1drv.ms/f/c/de0254e500a56cf5/EjDXvEDkU6pKqZfFGuoIGa4Bd62Eb8Rt06VIgj5pi1GidA?e=EX6J66)
+## Resources: Dataset & Training Results
+
+This section provides links to the dataset used in our work and the resulting model artifacts.
+
+---
+
+### 📊 MV-TI Dataset
+
+The **MV-TI dataset** has been publicly available to support reproducibility and future research. You can access it via the link below.
+
+- **Dataset Link:** [Baidu Pan / 百度网盘](https://pan.baidu.com/s/1rFaP0r0ZSCK2ekRd0St1JA?pwd=r5td)
+  - **Password:** `r5td`
+
+---
+
+### 📥 Training Artifacts
+
+The complete training results, including model checkpoints, training logs, and evaluation metrics, are available for download from our shared OneDrive folder.
+
+- **Access Results:** [OneDrive Folder](https://1drv.ms/f/c/de0254e500a56cf5/EjDXvEDkU6pKqZfFGuoIGa4Bd62Eb8Rt06VIgj5pi1GidA?e=EX6J66)
