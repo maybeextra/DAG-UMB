@@ -439,7 +439,7 @@ if __name__ == '__main__':
     parser.add_argument('--momentum', type=float, default=0.1,
                         help="update momentum for the hybrid memory")
     parser.add_argument('--init_epoch', type=int, default=10)
-    parser.add_argument('--dual_memory', type=int, default=[500,600])
+    parser.add_argument('--dual_memory', type=int, default=[0,20])
     parser.add_argument('--resume', type=str, default=None)
 
     # optimizer
